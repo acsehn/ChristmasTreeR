@@ -1,0 +1,12 @@
+Package: ChristmasTreeR
+Type: Package
+Title: Tree drawer
+Version: 0.1.0
+Author: Anna Sehn
+Maintainer: That'd be me <anna.sehn@email.com>
+Description: Draws a festive tree, with selected number of presents underneath.
+    For now, anyway - this is an example-package more than anything.
+License: None, or mine :) 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1.9000
